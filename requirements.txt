@@ -1,0 +1,7 @@
+aiogram
+requests
+environs
+psycopg-binary
+psycopg
+werkzeug
+translators
